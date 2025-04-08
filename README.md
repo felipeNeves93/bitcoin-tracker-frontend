@@ -34,4 +34,4 @@ npm run dev
 - Start the backend: [bitcoin-tracker-backend](https://github.com/felipeNeves93/bitcoin-tracker/tree/master)
 - Start this frontend
 - Visit ```http://localhost:5173/current_price```
-- ![Project screenshot](/src/assets/project-screenshot.png)
+![Project screenshot](/src/assets/project-screenshot.png)
